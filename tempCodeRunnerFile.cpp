@@ -1,1 +1,0 @@
-void swapping(sample &obj);
